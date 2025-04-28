@@ -1,0 +1,14 @@
+Aspirin (CID 2244)
+Aspirin has moderate molecular weight (180.16 g/mol) and positive XLogP (1.2), indicating lipophilic behavior. Its solubility favors organic solvents over water. This lipophilicity enables good membrane permeability, supporting Aspirin's effective absorption through the GI tract. Its acetyl group enhances stability but hydrolyzes in aqueous environments, affecting shelf-life in liquid formulations.
+
+Acetaminophen (CID 1983)
+With a molecular weight of 151.16 g/mol and XLogP of 0.5, Acetaminophen exhibits mild lipophilicity. This balanced profile allows moderate water solubility while maintaining sufficient membrane permeation. Its lower lipophilicity compared to Aspirin explains its different distribution pattern in the body and reduced GI irritation potential. The compound's hydroxyl group creates hydrogen bonding opportunities in formulations.
+
+Ethanol (CID 702)
+As the smallest compound (46.07 g/mol) with nearly neutral XLogP (-0.1), Ethanol demonstrates amphiphilic properties. This unique characteristic makes it valuable as a pharmaceutical co-solvent, capable of dissolving both polar and non-polar substances. Its small size allows rapid diffusion across membranes, explaining its quick systemic effects when consumed.
+
+L-Arginine (CID 6322)
+L-Arginine shows strong hydrophilicity (XLogP -4.2) with moderate molecular weight (174.20 g/mol). Its charged guanidino group creates high water solubility but limited membrane permeability without active transport. These properties make L-Arginine challenging for oral delivery but suitable for injectable formulations. Its hydrophilicity also contributes to its hygroscopic nature, requiring careful storage conditions.
+
+ATP (CID 5957)
+ATP has the highest molecular weight (507.18 g/mol) and strongest hydrophilicity (XLogP -5.7). These properties explain its poor membrane permeability and virtually no oral bioavailability. The highly polar phosphate groups create strong interactions with water molecules, while its large size further restricts passive diffusion across biological barriers. This explains why ATP must be synthesized within cells rather than absorbed from external sources.
